@@ -19,4 +19,4 @@ You’ll have access to a dataset of 10,000 tweets that were hand classified.
 
 - The metric used is "F1-score".
 
-- The algortihm developed in this Notebook achieved a F1-score of about 82% on the test set (The score is calculated by the Kaggle platform).
+- The algortihm developed in this Notebook achieved a F1-score of about 82% on the test set (calculated by the Kaggle platform).
