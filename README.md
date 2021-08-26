@@ -13,6 +13,10 @@ You’ll have access to a dataset of 10,000 tweets that were hand classified.
 
 # About my algorithm
 
+- I used the BERT model in order to create my own NLP algorithm.
+
+- I used Optuna to optimize the model.
+
 - The metric used is "F1-score".
 
 - The algortihm developed in this Notebook achieved a F1-score of about 82% on the test set (The score is calculated by the Kaggle platform).
